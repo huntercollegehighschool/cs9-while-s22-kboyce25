@@ -5,12 +5,7 @@ The program below is supposed to find and print the number of perfect squares th
 
 (Hint: there should only be one change made/added.)
 
-Example of what should appear on the console when this part runs:
-
-Enter a number: 50
-Number of squares less than or equal to 50: 7
-
-'''
+Example of what should appear on the console whe
 num = int(input("Enter a number:"))
 numbertosquare = 1
 numsquares = 0
